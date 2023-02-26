@@ -90,7 +90,7 @@ backdrop-filter: blur(2px);
 .bottom{
     display: flex;
     flex-direction: row;
-    gap:304px;
+    gap:280px;
     justify-content: space-between;
     padding:20px 78px 9px 141px;
     background: rgba(12, 79, 249, 0.39);
